@@ -1,0 +1,11 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "greeting": "Hello! My name is",
+    "smalldescription": "I'm a <span>developer</span> in love <span>with Machine Learning</span>."
+}

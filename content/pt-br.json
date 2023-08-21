@@ -1,0 +1,11 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre",
+        "skills": "Habilidades",
+        "projects": "Projetos",
+        "contact": "Contato"
+    },
+    "greeting": "Olá, me chamo",
+    "smalldescription": "Sou <span>desenvolvedor</span> apaixonado por <span>Machine Learning</span>."
+}
